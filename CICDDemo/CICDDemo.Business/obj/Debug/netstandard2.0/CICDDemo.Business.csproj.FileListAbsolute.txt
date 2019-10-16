@@ -1,9 +1,0 @@
-C:\Code\CICDDemo\CICDDemo\CICDDemo.Business\bin\Debug\netstandard2.0\CICDDemo.Business.deps.json
-C:\Code\CICDDemo\CICDDemo\CICDDemo.Business\bin\Debug\netstandard2.0\CICDDemo.Business.dll
-C:\Code\CICDDemo\CICDDemo\CICDDemo.Business\bin\Debug\netstandard2.0\CICDDemo.Business.pdb
-C:\Code\CICDDemo\CICDDemo\CICDDemo.Business\obj\Debug\netstandard2.0\CICDDemo.Business.csprojAssemblyReference.cache
-C:\Code\CICDDemo\CICDDemo\CICDDemo.Business\obj\Debug\netstandard2.0\CICDDemo.Business.csproj.CoreCompileInputs.cache
-C:\Code\CICDDemo\CICDDemo\CICDDemo.Business\obj\Debug\netstandard2.0\CICDDemo.Business.AssemblyInfoInputs.cache
-C:\Code\CICDDemo\CICDDemo\CICDDemo.Business\obj\Debug\netstandard2.0\CICDDemo.Business.AssemblyInfo.cs
-C:\Code\CICDDemo\CICDDemo\CICDDemo.Business\obj\Debug\netstandard2.0\CICDDemo.Business.dll
-C:\Code\CICDDemo\CICDDemo\CICDDemo.Business\obj\Debug\netstandard2.0\CICDDemo.Business.pdb
