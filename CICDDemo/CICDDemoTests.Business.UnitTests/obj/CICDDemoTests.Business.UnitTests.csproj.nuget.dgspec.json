@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Code\\CICDDemo\\CICDDemo\\CICDDemoTests.Business.UnitTests\\CICDDemoTests.Business.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Code\\CICDDemo\\CICDDemo\\CICDDemo.Business\\CICDDemo.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\CICDDemo\\CICDDemo\\CICDDemo.Business\\CICDDemo.Business.csproj",
+        "projectName": "CICDDemo.Business",
+        "projectPath": "C:\\Code\\CICDDemo\\CICDDemo\\CICDDemo.Business\\CICDDemo.Business.csproj",
+        "packagesPath": "C:\\Users\\sreeprasad.pisharody\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\CICDDemo\\CICDDemo\\CICDDemo.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sreeprasad.pisharody\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Code\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://yarpvproget/nuget/Nuget_NWPS": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Code\\CICDDemo\\CICDDemo\\CICDDemoTests.Business.UnitTests\\CICDDemoTests.Business.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\CICDDemo\\CICDDemo\\CICDDemoTests.Business.UnitTests\\CICDDemoTests.Business.UnitTests.csproj",
+        "projectName": "CICDDemoTests.Business.UnitTests",
+        "projectPath": "C:\\Code\\CICDDemo\\CICDDemo\\CICDDemoTests.Business.UnitTests\\CICDDemoTests.Business.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\sreeprasad.pisharody\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\CICDDemo\\CICDDemo\\CICDDemoTests.Business.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sreeprasad.pisharody\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Code\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://yarpvproget/nuget/Nuget_NWPS": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Code\\CICDDemo\\CICDDemo\\CICDDemo.Business\\CICDDemo.Business.csproj": {
+                "projectPath": "C:\\Code\\CICDDemo\\CICDDemo\\CICDDemo.Business\\CICDDemo.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "AutoFixture.AutoMoq": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.9.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
