@@ -7,4 +7,5 @@ phases:
       - dotnet build
 artifacts:
   files:
-    - .\bin\Release\netcoreapp2.2\*
+    - '**/*'
+  name: myname-$AWS_REGION 
