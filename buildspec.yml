@@ -5,6 +5,7 @@ phases:
     commands:
       - dotnet restore
       - dotnet build
+      - dotnet publish -c release -o ./build_output CICDDemo/CICDDemo.csproj
 artifacts:
   files:
-    - '**/CICDDemo/*'
+    - './build_output/**.*'
