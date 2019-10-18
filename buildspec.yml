@@ -10,3 +10,4 @@ artifacts:
   files:
     - './CICDDemo/build_output/**.*'
     - './CICDDemo/wwwroot/**/*'
+    
